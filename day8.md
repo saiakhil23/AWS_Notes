@@ -1,4 +1,5 @@
 **1. What is elasticity ?**
+
 Increasing or Decreasing the **Number** of servers based on the Demand.
 -  Elasticity is a short term and it can achieved in AWS using AUTO-SCALING
 -  Elasticity is also called as **Horizantal Scaling**
@@ -8,6 +9,7 @@ Increasing or Decreasing the **Number** of servers based on the Demand.
    
    
  **2. What is Scalability ?**
+
 Increasing the **Capacity** of the servers is called the Scalability.
 - Scalability is also called as **Vertical Scaling**
 - Scalability is Long Term
